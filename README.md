@@ -46,4 +46,4 @@ You will need to point at this configuration file when running the command
 jsdoc -c jsdoc.conf.json -d path/to/output/folder -p -t node_modules/jsdoc-dash-template -r path/to/src/folder
 ```
 
-As a reminder, this configuration file can take many other options. For further information, refer to the [jsdoc website](http://usejsdoc.org/about-configuring-jsdoc.html).
+As a reminder, this configuration file can take many other options. For further information, refer to the [jsdoc website](https://jsdoc.app/about-configuring-jsdoc).
